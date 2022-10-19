@@ -3,6 +3,7 @@ Inputs
 * First line takes two integers e and n, which represents public key pair
 * Second line takes in m, which is length of encoded message
 * Takes in m integers, representing the encoded message
+
 Outputs
 * First line outputs p, q, phi(n) and d; p < q, p*q = n and phi(n) = (p-1)*(q-1)
 * Then, output decoded message in integer
